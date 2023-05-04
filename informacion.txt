@@ -5,3 +5,4 @@ UTA
 Manejo y Configuracion del software
 Metodologias Agiles
 Redes
+Base de Datos
