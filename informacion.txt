@@ -3,3 +3,5 @@ Av. Lavalle y febres cordero
 Cuarto Ciclo
 UTA
 Manejo y Configuracion del software
+Metodologias Agiles
+
